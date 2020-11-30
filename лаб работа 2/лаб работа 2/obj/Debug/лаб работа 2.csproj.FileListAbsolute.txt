@@ -1,0 +1,20 @@
+C:\Users\omerh\source\repos\лаб работа 2\лаб работа 2\bin\Debug\лаб работа 2.exe.config
+C:\Users\omerh\source\repos\лаб работа 2\лаб работа 2\bin\Debug\лаб работа 2.exe
+C:\Users\omerh\source\repos\лаб работа 2\лаб работа 2\bin\Debug\лаб работа 2.pdb
+C:\Users\omerh\source\repos\лаб работа 2\лаб работа 2\obj\Debug\лаб работа 2.csprojAssemblyReference.cache
+C:\Users\omerh\source\repos\лаб работа 2\лаб работа 2\obj\Debug\лаб_работа_2.Form1.resources
+C:\Users\omerh\source\repos\лаб работа 2\лаб работа 2\obj\Debug\лаб_работа_2.Properties.Resources.resources
+C:\Users\omerh\source\repos\лаб работа 2\лаб работа 2\obj\Debug\лаб работа 2.csproj.GenerateResource.cache
+C:\Users\omerh\source\repos\лаб работа 2\лаб работа 2\obj\Debug\лаб работа 2.csproj.CoreCompileInputs.cache
+C:\Users\omerh\source\repos\лаб работа 2\лаб работа 2\obj\Debug\лаб работа 2.exe
+C:\Users\omerh\source\repos\лаб работа 2\лаб работа 2\obj\Debug\лаб работа 2.pdb
+E:\лаб работа 2\лаб работа 2\bin\Debug\лаб работа 2.exe.config
+E:\лаб работа 2\лаб работа 2\bin\Debug\лаб работа 2.exe
+E:\лаб работа 2\лаб работа 2\bin\Debug\лаб работа 2.pdb
+E:\лаб работа 2\лаб работа 2\obj\Debug\лаб работа 2.csprojAssemblyReference.cache
+E:\лаб работа 2\лаб работа 2\obj\Debug\лаб_работа_2.Form1.resources
+E:\лаб работа 2\лаб работа 2\obj\Debug\лаб_работа_2.Properties.Resources.resources
+E:\лаб работа 2\лаб работа 2\obj\Debug\лаб работа 2.csproj.GenerateResource.cache
+E:\лаб работа 2\лаб работа 2\obj\Debug\лаб работа 2.csproj.CoreCompileInputs.cache
+E:\лаб работа 2\лаб работа 2\obj\Debug\лаб работа 2.exe
+E:\лаб работа 2\лаб работа 2\obj\Debug\лаб работа 2.pdb
